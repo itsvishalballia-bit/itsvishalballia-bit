@@ -16,6 +16,14 @@
 
 ---
 
+<div align="center">
+
+<img src="assets/blackhole.svg" width="100%" alt="Animated black hole" />
+
+</div>
+
+---
+
 ## ⚡ Building
 
 > Secure, scalable and modern digital experiences — clean UI, practical engineering and AI-assisted workflows.
@@ -118,6 +126,22 @@ const vishal = {
 ▸ Exploring     →  Data science foundations for CSE-DS
 ▸ Open to       →  Internships, collaboration, open source
 ```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvishalballia-bit/itsvishalballia-bit/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvishalballia-bit/itsvishalballia-bit/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/itsvishalballia-bit/itsvishalballia-bit/output/snake.svg" />
+</picture>
+
+<sub>The snake eats one square per contribution — regenerates every 12 hours.</sub>
+
+</div>
 
 ---
 
